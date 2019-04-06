@@ -1,0 +1,20 @@
+C:\Users\админ\админ\Desktop\mosaic\bin\Debug\mosaic.exe
+C:\Users\админ\админ\Desktop\mosaic\bin\Debug\mosaic.pdb
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.csprojAssemblyReference.cache
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.FormMain.resources
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.SetDlg.resources
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.HelpDlg.resources
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.Properties.Resources.resources
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.csproj.GenerateResource.cache
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.csproj.CoreCompileInputs.cache
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.exe
+C:\Users\админ\админ\Desktop\mosaic\obj\Debug\mosaic.pdb
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.csprojAssemblyReference.cache
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.FormMain.resources
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.SetDlg.resources
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.HelpDlg.resources
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.Properties.Resources.resources
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.csproj.GenerateResource.cache
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.csproj.CoreCompileInputs.cache
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.exe
+C:\Users\админ\админ\Desktop\2 курс 2 сем\Проек и тестирование\mosaic\obj\Debug\mosaic.pdb
